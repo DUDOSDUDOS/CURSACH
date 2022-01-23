@@ -128,7 +128,7 @@ function onWindowResize() {
 	renderer.setSize( window.innerWidth, window.innerHeight );
 }
 
-//animate
+//game physics
 
 function animate() {
 	requestAnimationFrame( animate );
